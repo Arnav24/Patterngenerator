@@ -1,0 +1,511 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"back",
+				"background-repeat\tproperty"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"bas",
+				"background-size\tproperty"
+			],
+			[
+				"for",
+				"footer\tTag"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"ali",
+				"align-content\tproperty"
+			],
+			[
+				"s",
+				"studentDICT"
+			],
+			[
+				"STU",
+				"student"
+			],
+			[
+				"top",
+				"top3"
+			],
+			[
+				"roll",
+				"rollno"
+			],
+			[
+				"MA",
+				"Maths"
+			],
+			[
+				"STUDENT_M",
+				"STUDENT_MARKS_IN_HINDI"
+			],
+			[
+				"S",
+				"STUDENT_MARKS_IN_HINDI"
+			],
+			[
+				"STUDENT_MA",
+				"STUDENT_MARKS_IN_ENGLISH"
+			],
+			[
+				"ST",
+				"STUDENT_MARKS_IN_SCIENCE"
+			],
+			[
+				"MARK",
+				"MARKS_IN_MATHS"
+			],
+			[
+				"STUDENT_MARKS_IN_S",
+				"STUDENT_MARKS_IN_SOCIAL_SCIENCE"
+			],
+			[
+				"so",
+				"Social_Science"
+			],
+			[
+				"So",
+				"Social_Science"
+			],
+			[
+				"e",
+				"English"
+			],
+			[
+				"siz",
+				"size\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"fons",
+				"font-size\tproperty"
+			],
+			[
+				"backc",
+				"background-color\tproperty"
+			],
+			[
+				"ite",
+				"item_content"
+			],
+			[
+				"item",
+				"item_img"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"texta",
+				"text-align\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"DI",
+				"DIV\tTag"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"boxs",
+				"box-shadow\tproperty"
+			],
+			[
+				"inl",
+				"inline-flex\tdisplay"
+			],
+			[
+				"trA",
+				"transition\tproperty"
+			],
+			[
+				"MAR",
+				"margin\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"bo",
+				"bolder\tfont-weight"
+			],
+			[
+				"font-ei",
+				"font-weight\tproperty"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"margi",
+				"margin-right\tproperty"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"pad",
+				"padding-bottom\tproperty"
+			],
+			[
+				"b",
+				"background-image"
+			],
+			[
+				"c",
+				"cover\tbackground-size"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"shadow",
+				"box-shadow\tproperty"
+			],
+			[
+				"tran",
+				"transition\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"tes",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"padi",
+				"padding-left\tproperty"
+			],
+			[
+				"bot",
+				"padding-bottom\tproperty"
+			],
+			[
+				"f",
+				"flood-color\tproperty"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"use",
+				"user_data"
+			],
+			[
+				"us",
+				"user_data"
+			],
+			[
+				"http",
+				"httpRequest"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"he",
+				"head\tTag"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"ind",
+				"z-index\tproperty"
+			],
+			[
+				"backgrounD",
+				"background-image\tproperty"
+			],
+			[
+				"g",
+				"green"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"gr",
+				"grey"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"margint",
+				"margin-left\tproperty"
+			],
+			[
+				"bor",
+				"border-width"
+			],
+			[
+				"style",
+				"font-style\tproperty"
+			],
+			[
+				"ca",
+				"caption\tTag"
+			],
+			[
+				"border-bo",
+				"border-bottom-color\tproperty"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"bol",
+				"bolt_logo"
+			],
+			[
+				"col",
+				"color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/hp/OneDrive/Desktop/coffee shop/index.html",
+		"/C/Users/hp/OneDrive/Documents/c.cpp",
+		"/C/Users/hp/Downloads/practice/student.py",
+		"/C/Users/hp/Downloads/practice/start.py",
+		"/C/Users/hp/OneDrive/Desktop/coffee shop/javascript.html",
+		"/C/Users/hp/OneDrive/Desktop/web d project/Index.html",
+		"/C/Users/hp/Downloads/practice/new.py",
+		"/C/Users/hp/OneDrive/Desktop/web d project/style.css",
+		"/C/Users/hp/OneDrive/Desktop/coffee shop/coffeeshop2.css",
+		"/C/Users/hp/OneDrive/Desktop/web d project/logo.html",
+		"/C/Users/hp/OneDrive/Desktop/coffee shop/order.html",
+		"/C/Users/hp/OneDrive/Desktop/coffee shop/index2.html",
+		"/C/Users/hp/OneDrive/Desktop/coffee shop/contact.html",
+		"/C/Users/hp/OneDrive/Desktop/coffee shop/product.html",
+		"/C/Users/hp/OneDrive/Desktop/coffee shop/coffeeshop.css"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "style.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
